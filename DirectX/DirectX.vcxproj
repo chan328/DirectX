@@ -115,10 +115,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="D3dclass.cpp" />
+    <ClCompile Include="Graphicsclass.cpp" />
+    <ClCompile Include="Inputclass.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="SystemClass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="D3dclass.h" />
+    <ClInclude Include="Graphicsclass.h" />
+    <ClInclude Include="Inputclass.h" />
     <ClInclude Include="Systemclass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
