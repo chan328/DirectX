@@ -1,0 +1,10 @@
+﻿  D3dclass.cpp
+d:\directx\directx\d3dclass.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx10math.h': No such file or directory
+  Graphicsclass.cpp
+d:\directx\directx\d3dclass.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx10math.h': No such file or directory
+  Inputclass.cpp
+  Main.cpp
+d:\directx\directx\d3dclass.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx10math.h': No such file or directory
+  SystemClass.cpp
+d:\directx\directx\d3dclass.h(17): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx10math.h': No such file or directory
+  코드를 생성하고 있습니다...

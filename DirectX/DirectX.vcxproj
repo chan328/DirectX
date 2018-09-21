@@ -127,6 +127,9 @@
     <ClInclude Include="Inputclass.h" />
     <ClInclude Include="Systemclass.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Color.vs" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
